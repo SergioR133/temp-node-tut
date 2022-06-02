@@ -1,0 +1,14 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "This is practice for Node and Express",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
